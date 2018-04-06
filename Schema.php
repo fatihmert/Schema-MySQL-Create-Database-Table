@@ -1,3 +1,5 @@
+<?php
+
 class SchemaTable{
 	public $table_name;
 	public $result;
